@@ -18,13 +18,13 @@ CSV Files – Structured data storage
 
 Project Folder Structure
 placementapp/
-├── app.py                  # Main Streamlit application
-├── placementapp.ipynb      # Data preparation & testing notebook
-├── students.csv            # Student master data
-├── programming.csv         # Programming performance data
-├── soft_skills.csv         # Soft skills evaluation data
-├── placements.csv          # Placement readiness data
-└── Placement_Eligibility_Streamlit_Application_Documentation_Final.docx
+1.app.py                  # Main Streamlit application
+2.placementapp.ipynb      # Data preparation & testing notebook
+3.students.csv            # Student master data
+4.programming.csv         # Programming performance data
+5.soft_skills.csv         # Soft skills evaluation data
+6.placements.csv          # Placement readiness data
+7.Placement_Eligibility_Streamlit_Application_Documentation_Final.docx
 
 Dataset Description
 
